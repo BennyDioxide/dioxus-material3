@@ -1,0 +1,15 @@
+[package]
+name = "dioxus-material3"
+version = "0.1.0"
+authors = ["BennyDioxide <bennystyang@proton.me>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+dioxus-lib = "0.5"
+
+# Debug
+tracing = "0.1.40"
+dioxus-logger = "0.5.0"
