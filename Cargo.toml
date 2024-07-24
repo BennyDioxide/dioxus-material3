@@ -13,3 +13,7 @@ dioxus-lib = "0.5"
 # Debug
 tracing = "0.1.40"
 dioxus-logger = "0.5.0"
+
+# Material Design dependencies
+material-colors = "0.3.3"
+material-icons = "0.2.0"
